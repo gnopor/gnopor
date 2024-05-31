@@ -1,9 +1,3 @@
----
-
-**Full-Stack Developer | ReactJs | NextJs | NodeJs | ExpressJs | Docker | AWS | Firebase | HTML | CSS | VueJs | Java | SQL**
-
----
-
 Hi there 👋! I'm Blaise TAYOU, a seasoned full-stack developer with over 3 years of experience in crafting robust and scalable web applications. My diverse skill set and dedication to delivering high-quality solutions have enabled me to work on complex projects across various industries. Here's what I bring to the table:
 
 > [My gitlab 🔗](https://gitlab.com/gnopor)
