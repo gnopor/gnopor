@@ -7,12 +7,12 @@ Hi there 👋! I'm Blaise TAYOU, a seasoned full-stack developer with over 3 yea
 **Front-End Development:**
 
 - **ReactJs & NextJs**: Building dynamic and responsive user interfaces.
-- **VueJs**: Developing smooth and intuitive single-page applications.
+- **React-native**: Developing smooth and intuitive mobile applications.
 - **HTML & CSS**: Creating pixel-perfect layouts with responsive design principles.
 
 **Back-End Development:**
 
-- **NodeJs & ExpressJs**: Designing and implementing efficient server-side applications and APIs.
+- **NodeJs & NestJs**: Designing and implementing efficient server-side applications and APIs.
 - **Java**: Building secure and high-performance backend services.
 
 **DevOps & Cloud:**
@@ -23,13 +23,12 @@ Hi there 👋! I'm Blaise TAYOU, a seasoned full-stack developer with over 3 yea
 
 **Database Management:**
 
-- **SQL**: Designing, optimizing, and managing relational databases.
+- **SQL & MongoDB**: Designing, optimizing, and managing relational databases.
 
 ### **Services I Provide:**
 
-- **Website Development**: From concept to deployment, building robust and user-friendly websites.
 - **Web Application Development**: Crafting sophisticated web applications tailored to your business needs.
-- **Mobile Application Development (PWA)**: Developing progressive web apps for a seamless mobile experience.
+- **Mobile Application Development**: Developing mobile apps for a seamless mobile experience.
 - **API Development**: Creating RESTful and GraphQL APIs for efficient data exchange.
 - **API Integration**: Seamlessly integrating third-party APIs into your applications.
 
@@ -42,4 +41,4 @@ Hi there 👋! I'm Blaise TAYOU, a seasoned full-stack developer with over 3 yea
 
 ### **Let’s Work Together:**
 
-Are you looking to create a website, a web application, or any other web-related project? I'm here to help you turn your vision into reality. Let's discuss how I can contribute to your project's success. Feel free to reach out, and let's get started!
+Are you looking to create a mobile application, a web application, or any other web-related project? I'm here to help you turn your vision into reality. Let's discuss how I can contribute to your project's success. Feel free to reach out, and let's get started!
