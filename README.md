@@ -1,44 +1,49 @@
-Hi there 👋! I'm Blaise TAYOU, a seasoned full-stack developer with over 3 years of experience in crafting robust and scalable web applications. My diverse skill set and dedication to delivering high-quality solutions have enabled me to work on complex projects across various industries. Here's what I bring to the table:
+### Hi there 👋 I'm Blaise TAYOU
 
-> [My gitlab 🔗](https://gitlab.com/gnopor)
+Results-driven software engineer with **5+ years of experience** designing, developing, and optimizing scalable applications. I work across the full stack — from React frontends to cloud-deployed backends — and collaborate with international teams to ship high-performance, reliable solutions.
 
-### **What I Offer: 🚀**
+> 🌍 Based in Cameroon · 🌐 [tayoublaise.net](https://tayoublaise.net/en) · 🦊 [GitLab](https://gitlab.com/gnopor)
 
-**Front-End Development:**
+---
 
-- **ReactJs & NextJs**: Building dynamic and responsive user interfaces.
-- **React-native**: Developing smooth and intuitive mobile applications.
-- **HTML & CSS**: Creating pixel-perfect layouts with responsive design principles.
+### 🛠 Tech Stack
 
-**Back-End Development:**
+**Frontend**
+`React.js` `Next.js` `TypeScript` `HTML` `CSS`
 
-- **NodeJs & NestJs**: Designing and implementing efficient server-side applications and APIs.
-- **Java**: Building secure and high-performance backend services.
+**Backend**
+`Node.js` `Nest.js` `FastAPI` `Python` `REST APIs`
 
-**DevOps & Cloud:**
+**Data & Cloud**
+`MongoDB` `SQL` `AWS` `GCP` `Firebase` `Docker`
 
-- **Docker**: Containerizing applications for consistent and scalable deployments.
-- **AWS**: Leveraging cloud services for reliable and scalable infrastructure.
-- **Firebase**: Integrating real-time databases, authentication, and hosting.
+**Tooling & QA**
+`Jest` `Playwright` `GitLab CI` `Git` `Salesforce`
 
-**Database Management:**
+---
 
-- **SQL & MongoDB**: Designing, optimizing, and managing relational databases.
+### 📌 A Few Things I've Shipped
 
-### **Services I Provide:**
+- ⚡ Optimized batch workflows to handle **1,000+ events** with a 100% success rate
+- 🌍 Improved city loading flows for **100,000+ entries**, cutting load times by 50%
+- 📡 Built a WhatsApp contact loader processing **19,000+ contacts** in efficient batches
+- 🔗 Developed and deployed **5+ RESTful services** syncing data between Salesforce and external systems
+- 🤖 Currently validating AI-powered MCP tools at **Turing.com** using Python and SQL
 
-- **Web Application Development**: Crafting sophisticated web applications tailored to your business needs.
-- **Mobile Application Development**: Developing mobile apps for a seamless mobile experience.
-- **API Development**: Creating RESTful and GraphQL APIs for efficient data exchange.
-- **API Integration**: Seamlessly integrating third-party APIs into your applications.
+---
 
-### **Why Choose Me:**
+### 🏅 Certifications
 
-- **Proven Expertise**: Extensive experience in full-stack development, delivering high-quality and maintainable code.
-- **Client-Centric Approach**: Focused on understanding your unique requirements and providing solutions that drive your business forward.
-- **Agile & Efficient**: Committed to meeting deadlines and delivering results that exceed expectations.
-- **Continuous Learning**: Always staying updated with the latest industry trends and technologies to bring the best solutions to your projects.
+- ☁️ AWS Certified Solutions Architect – Associate (2026)
+- ☁️ AWS Certified Developer – Associate (2026)
+- 🏗️ HashiCorp Certified Terraform Associate
+- 🤖 Salesforce Certified AI Specialist (2024)
+- ⚛️ Frontend Developer (React) – HackerRank (2024)
 
-### **Let’s Work Together:**
+---
 
-Are you looking to create a mobile application, a web application, or any other web-related project? I'm here to help you turn your vision into reality. Let's discuss how I can contribute to your project's success. Feel free to reach out, and let's get started!
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tayou-blaise-9b3a4b191)
+[![Website](https://img.shields.io/badge/Website-tayoublaise.net-informational?style=flat)](https://tayoublaise.net/en)
+[![Email](https://img.shields.io/badge/Email-tayoukengne@gmail.com-red?style=flat&logo=gmail)](mailto:tayoukengne@gmail.com)
